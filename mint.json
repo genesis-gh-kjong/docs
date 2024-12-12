@@ -4,6 +4,7 @@
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
+    "theme": "quill"
   },
   "favicon": "/favicon.svg",
   "colors": {
